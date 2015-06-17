@@ -27,7 +27,11 @@ https://github.com/paulmassey42/VagrantUnifiedViews2.x.git), the
 following will work:
 
 mvn archetype:generate
+
 --> 1351 is the eu.unifiedviews archetype
+
 --> Fill in other values as required for your-project
+
 cd your-project
+
 
