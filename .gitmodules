@@ -1,0 +1,3 @@
+[submodule "ods-lodms-plugins"]
+	path = ods-lodms-plugins
+	url = https://github.com/tenforce/ods-lodms-plugins.git
