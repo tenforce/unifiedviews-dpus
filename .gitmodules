@@ -1,3 +1,6 @@
 [submodule "ods-lodms-plugins"]
 	path = ods-lodms-plugins
 	url = https://github.com/tenforce/ods-lodms-plugins.git
+[submodule "uv-dpu-t-json-to-rdf"]
+	path = uv-dpu-t-json-to-rdf
+	url = git@github.com:tenforce/uv-dpu-t-json-to-rdf.git
