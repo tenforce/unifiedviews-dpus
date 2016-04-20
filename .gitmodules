@@ -4,3 +4,6 @@
 [submodule "uv-dpu-t-json-to-rdf"]
 	path = uv-dpu-t-json-to-rdf
 	url = git@github.com:tenforce/uv-dpu-t-json-to-rdf.git
+[submodule "uv-dpu-e-http-client"]
+	path = uv-dpu-e-http-client
+	url = https://github.com/tenforce/uv-dpu-e-http-client.git
